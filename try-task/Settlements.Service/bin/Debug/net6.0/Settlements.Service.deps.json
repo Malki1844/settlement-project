@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Settlements.Service/1.0.0": {
+        "dependencies": {
+          "Settlements.Core": "1.0.0"
+        },
+        "runtime": {
+          "Settlements.Service.dll": {}
+        }
+      },
+      "Settlements.Core/1.0.0": {
+        "runtime": {
+          "Settlements.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Settlements.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Settlements.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

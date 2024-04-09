@@ -1,0 +1,15 @@
+D:\try-task\Settlements.Service\bin\Debug\net6.0\Settlements.Service.deps.json
+D:\try-task\Settlements.Service\bin\Debug\net6.0\Settlements.Service.dll
+D:\try-task\Settlements.Service\bin\Debug\net6.0\Settlements.Service.pdb
+D:\try-task\Settlements.Service\bin\Debug\net6.0\Settlements.Core.dll
+D:\try-task\Settlements.Service\bin\Debug\net6.0\Settlements.Core.pdb
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.csproj.AssemblyReference.cache
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.AssemblyInfoInputs.cache
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.AssemblyInfo.cs
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.csproj.CoreCompileInputs.cache
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.csproj.CopyComplete
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.dll
+D:\try-task\Settlements.Service\obj\Debug\net6.0\refint\Settlements.Service.dll
+D:\try-task\Settlements.Service\obj\Debug\net6.0\Settlements.Service.pdb
+D:\try-task\Settlements.Service\obj\Debug\net6.0\ref\Settlements.Service.dll
