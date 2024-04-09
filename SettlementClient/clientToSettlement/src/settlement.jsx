@@ -1,7 +1,6 @@
 import { observer } from 'mobx-react-lite';
 import { useRef, useState } from 'react';
 import singletonSettlement from './SettlementObserver';
-//import { transliterate as tr, slugify  } from 'transliteration';
 
 const Settlement = observer(() => {
     const [listSettlements, setListSettlement] = useState([]);
@@ -16,13 +15,11 @@ const Settlement = observer(() => {
     const [idUpdate, setIdUpdate] = useState();
     const [nameUpdate, setNameUpdate] = useState();
     const [isAdd, setIsAdd] = useState(false);
-    const [searchSettlement, setSearchSettlement] = useState('');
     const [isClick, setIsClick] = useState(false)
 
     function show() {
         setListSettlement(singletonSettlement.getSettlements);
         setIsClick(!isClick)
-
     }
 
     function update(item) {
@@ -54,7 +51,8 @@ const Settlement = observer(() => {
     }
 
     function handleSearch(search) {
-        setSearchSettlement(search);
+        const filteredSettlements = singletonSettlement.getSettlements.filter(item => item.name.includes(search));
+        setListSettlement(filteredSettlements);
     }
 
     function handleSort(type) {
@@ -80,7 +78,7 @@ const Settlement = observer(() => {
                         <button onClick={() => handleSort('up')}>מיון עולה</button>
                         <button onClick={() => handleSort('down')}>מיון יורד</button>
                     </div>
-                    {currentSettlements.filter(item => item.name.includes(searchSettlement)).map((item) => (
+                    {currentSettlements.map((item) => (
                             <>
                                 <p key={item.id} value={`${item.id}|${item.name}`}>{item.name}</p>
                                 <button onClick={() => update(item)}>{!isUpdate ? <span>update</span> : <span>cancel update</span>}</button>
@@ -88,7 +86,7 @@ const Settlement = observer(() => {
                             </>
                         ))}
                     <div>
-                        {Array.from({ length: Math.ceil(listSettlements.length / settlementsPerPage) }).map((_, index) => (
+                        {Array.from({ length: Math.ceil(singletonSettlement.getSettlements.length / settlementsPerPage) }).map((_, index) => (
                             <button key={index} onClick={() => paginate(index + 1)}>{index + 1}</button>
                         ))}
                     </div>
@@ -103,7 +101,7 @@ const Settlement = observer(() => {
                 <>
                     {isAdd ? (
                         <>
-                            <input type='text' ref={nameAddRef} placeholder='הכנס שם' />
+                            <input type='text' ref={nameAddRef} placeholder='insert name' />
                             <button onClick={() => addSettlement()}>add</button>
                         </>
                     ) : (

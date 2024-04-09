@@ -15,3 +15,20 @@ D:\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.pdb
 D:\try-task\Settlements.Data\obj\Debug\net6.0\ref\Settlements.Data.dll
 D:\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Data.runtimeconfig.json
 D:\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.genruntimeconfig.cache
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Data.deps.json
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Data.runtimeconfig.json
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Data.dll
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Data.pdb
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Core.dll
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\bin\Debug\net6.0\Settlements.Core.pdb
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.csproj.CopyComplete
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.dll
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\refint\Settlements.Data.dll
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.pdb
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\Settlements.Data.genruntimeconfig.cache
+D:\‏‏תיקיה חדשה (2)\try-task\Settlements.Data\obj\Debug\net6.0\ref\Settlements.Data.dll

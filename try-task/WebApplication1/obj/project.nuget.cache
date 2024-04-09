@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V8HYdDMUzFCis1aV1dIlU1YDvG7CvxJtxs7kSF8/ssk4oe8H9r+6jix4ums7+0b3F30t0PMZTwpgZlJlFI4oGg==",
+  "dgSpecHash": "ub5vXMAgQMyPzepPHvElSAxB5hLGla8EOTsPIx0wmzSbAJDRr5d+IsBa9Nq0m/fG27eS3fH5SVO1+7Wdhpxa5w==",
   "success": true,
-  "projectFilePath": "D:\\try-task\\WebApplication1\\Settlements.Api.csproj",
+  "projectFilePath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\WebApplication1\\Settlements.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\try-task\\Settlements.Data\\Settlements.Data.csproj": {}
+    "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\Settlements.Data.csproj": {}
   },
   "projects": {
-    "D:\\try-task\\Settlements.Data\\Settlements.Data.csproj": {
+    "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\Settlements.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\try-task\\Settlements.Data\\Settlements.Data.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\Settlements.Data.csproj",
         "projectName": "Settlements.Data",
-        "projectPath": "D:\\try-task\\Settlements.Data\\Settlements.Data.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\Settlements.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\try-task\\Settlements.Data\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj": {
-                "projectPath": "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj"
+              "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj": {
+    "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj",
         "projectName": "Settlements.Core",
-        "projectPath": "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\try-task\\SettlementsCore\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

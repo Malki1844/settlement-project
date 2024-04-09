@@ -2123,11 +2123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\try-task\\WebApplication1\\Settlements.Api.csproj",
+      "projectUniqueName": "D:\\‏‏תיקיה חדשה (2)\\try-task\\WebApplication1\\Settlements.Api.csproj",
       "projectName": "Settlements.Api",
-      "projectPath": "D:\\try-task\\WebApplication1\\Settlements.Api.csproj",
+      "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\WebApplication1\\Settlements.Api.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\try-task\\WebApplication1\\obj\\",
+      "outputPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2148,14 +2148,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\try-task\\Settlements.Data\\Settlements.Data.csproj": {
-              "projectPath": "D:\\try-task\\Settlements.Data\\Settlements.Data.csproj"
+            "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\Settlements.Data.csproj": {
+              "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Data\\Settlements.Data.csproj"
             },
-            "D:\\try-task\\Settlements.Service\\Settlements.Service.csproj": {
-              "projectPath": "D:\\try-task\\Settlements.Service\\Settlements.Service.csproj"
+            "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Service\\Settlements.Service.csproj": {
+              "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\Settlements.Service\\Settlements.Service.csproj"
             },
-            "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj": {
-              "projectPath": "D:\\try-task\\SettlementsCore\\Settlements.Core.csproj"
+            "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj": {
+              "projectPath": "D:\\‏‏תיקיה חדשה (2)\\try-task\\SettlementsCore\\Settlements.Core.csproj"
             }
           }
         }
