@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Settlements.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c686d6cd931f95fee0e528c59779fca3348c2c9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d1614d3a68ba64411d52f506dab1260255edd77")]
 [assembly: System.Reflection.AssemblyProductAttribute("Settlements.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Settlements.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
